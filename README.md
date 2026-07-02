@@ -120,7 +120,7 @@ python evaluate_policysum.py --model policysum_model_best.pt
 # - Feature importance analysis
 ```
 
-**Expected Results (from paper):**
+**Results**
 ```
 Main Results on GovReport Test Set:
 ┌─────────────┬──────────┬──────────┬──────────┬────────────┐
